@@ -1,3 +1,4 @@
+`This is a submission for recruitment task for AeroClub-IIT Delhi`
 Objective: Tracking a moving object in `input_video` using Classical Computer Vision.
 Tracking Method: Interactive Template Selection(Normalized Cross-Correlation Template Matching)
 Flow:
@@ -17,7 +18,8 @@ Improvements:
 - Kalman Filter can be used to predict the next position.
 - If template matching proves to be unreliable for a significant proportion of test-cases, the method can be shifted to LK Optical Flow (since I had a single test-case and created another, moving to LK Optical Flow felt not worthy.)
 
-Submission
-Date: 28 January 2026
-Name: Vanshika Kataria
+Submission<br>
+Date: 28 January 2026<br>
+Name: Vanshika Kataria<br>
+
 Entry Number: 2025PH11320
